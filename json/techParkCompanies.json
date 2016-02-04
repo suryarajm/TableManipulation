@@ -1,0 +1,11 @@
+ {"companies":[{"name":"QBurst","headOffice":"Trivandrum","numberOfEmployees":"1200+","email":"hr@qburst.com","phoneNum":"0471 653 7510"},
+  {"name":"UST","headOffice":"Trivandrum","numberOfEmployees":"50000+","email":"hr@ust.com","phoneNum":"0471 653 7510"},
+  {"name":"Infosys","headOffice":"Bangalore","numberOfEmployees":"100000+","email":"hr@qinfosys.com","phoneNum":"0471 653 7510"},
+  {"name":"TATA ELXSI","headOffice":"Mumbai","numberOfEmployees":"40000+","email":"hr@tata.com","phoneNum":"0471 653 7510"},
+  {"name":"Allianz","headOffice":"Cochi","numberOfEmployees":"2200+","email":"hr@qburst.com","phoneNum":"0471 653 7510"},
+  {"name":"Maxartists","headOffice":"Trivandrum","numberOfEmployees":"50+","email":"hr@maxartists.com","phoneNum":"0471 653 7510"},
+  {"name":"EY","headOffice":"Cochi","numberOfEmployees":"7200+","email":"hr@ey.com","phoneNum":"0471 653 7510"},
+  {"name":"IBS","headOffice":"Bangalore","numberOfEmployees":"5200+","email":"hr@ibs.com","phoneNum":"0471 653 7510"},
+  {"name":"InApp","headOffice":"Chennai","numberOfEmployees":"1000+","email":"hr@inapp.com","phoneNum":"0471 653 7510"},
+  {"name":"PITS","headOffice":"Trivandrum","numberOfEmployees":"500+","email":"hr@pits.com","phoneNum":"0471 653 7510"},
+]}

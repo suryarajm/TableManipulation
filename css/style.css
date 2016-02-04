@@ -1,0 +1,111 @@
+body {
+	background-color: #D7EAEF;
+}
+table, th , td  {
+	border: 1px solid grey;
+	border-collapse: collapse;
+	padding: 5px;
+}
+table tr:nth-child(odd)	{
+	background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+	background-color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+  }
+
+ header{
+	height: 90px;
+    background-color: #44AEBF;
+    font-size: 28px;
+    color: white;
+    padding: 20px 0 20px 29px;
+    width: 100%;
+    top: 0 !important;
+    position: fixed;
+    z-index: 999;
+
+}
+ footer{
+ 	height: 50px;
+ 	width: 100%;
+    background-color: #5D6365;
+    font-size: 14px;
+    color: white;
+    bottom: 0 !important;
+    position: fixed;
+    padding: 20px 0 20px 20px;
+    z-index: 999;
+ }
+
+ .appBody{
+ 	height: auto;
+ 	width: 100%;
+ 	float: left;
+ }
+ aside{
+    height: 100%;
+    width: 15%;
+    background-color: #80B5C1;
+    color: black;
+    display: block;
+    font-size: 18px;
+    padding: 200px 50px;
+    float: left;
+    min-height: 400px;
+}
+.sidebarMenu{
+    float: left;
+    height: 50px;
+    width: 100%;
+    cursor: pointer;
+}
+.contentArea{
+    width: 80%;
+    float: left;
+    height: 400px;
+    margin-top: -1000px;
+    margin-left: 15%;  
+}
+.tableDiv{
+    width: auto;
+    max-width: 800px;
+    height: auto;
+    max-height: 500px;
+    padding: 30px;
+    background-color: white;
+    overflow-x: scroll;
+}
+
+
+.viewDetails{
+    cursor: pointer;
+}
+.detailsTableDiv{
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 0px 1%;
+}
+.firstTable{
+    height: auto;
+    width: 96%;
+    margin: 0px 2%;
+}
+.cancel{
+    margin-right: -190px;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #7A8293;
+    color: white;
+    cursor: pointer;
+    border-color: #7A8293;
+    border: none;
+}
+#companyListTable{
+    width: 100%;
+}
